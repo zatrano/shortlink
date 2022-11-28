@@ -1,0 +1,1 @@
+<meta http-equiv="refresh" content="0;URL=youtube://<?php echo e($code); ?>"><?php /**PATH D:\Projeler\shortlink\resources\views/link.blade.php ENDPATH**/ ?>
